@@ -45,7 +45,7 @@ Each project is implemented using only Python and covers different concepts like
 ---
 
 ## 📌 How to Run
-1. Clone the repository: (on Google Cloud Console) <img width="282" height="111" alt="image" src="https://github.com/user-attachments/assets/c5d8373b-ff26-45b2-8c84-3e4d847cd492" />
+1. Clone the repository: '''(on Google Cloud Console) <img width="282" height="111" alt="image" src="https://github.com/user-attachments/assets/c5d8373b-ff26-45b2-8c84-3e4d847cd492" />
 
    ```Google Cloud Console
    git clone https://github.com/SA5746S/CODSOFT-.git
